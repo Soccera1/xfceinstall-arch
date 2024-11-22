@@ -1,0 +1,9 @@
+#!/bin/bash
+
+git clone https://github.com/Soccera1/xfceinstaller-arch.git
+
+cd xfceinstaller-arch
+
+sudo chmod +x xfce4installer-arch
+
+sudo ./xfce4installer-arch
